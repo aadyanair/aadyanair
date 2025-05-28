@@ -2,9 +2,13 @@
 
 <h3 align="center">Brewing code and creativity — CS student ☕ turned software sorcerer 🧑🏼‍💻.</h3>
 
+## Behind the code
+🤝 Always up for teaming up on anything that fuses tech, creativity, and real-world impact — especially AI/ML and MERN stack builds.  
+🧠 Need a hand? I'm diving deep into model tuning, data storytelling, and making ML apps production-ready.  
+📚 Currently nerding out over advanced DSA, Flask + ML magic, and full-stack scalability.  
+💬 Got questions on full-stack, creative tech ideas, or how to balance logic with a spark of art? Let’s talk!  
+✨ Fun fact: My brain runs on code and creativity — equal parts compiler and canvas.
 
-# 💫 About Me:
-🤝 I'm looking to collaborate on: AI/ML, MERN stack projects, and anything that blends tech with creativity.<br>🆘 I'm looking for help with: Model optimization, impactful storytelling with data, and deploying ML apps.<br>📖 I'm currently learning: Advanced DSA, Flask-ML integration, and building scalable full-stack applications.<br>💬 Ask me about: Full-stack development, creative tech projects, and balancing tech with the arts.<br>🎉 Fun fact: I switch between coding and choreography — creativity keeps my logic flowing!
 
 
 ## 🌐 Socials:

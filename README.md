@@ -1,4 +1,7 @@
-## Hi there 👋, I'm Aadya
+<h1 align="center" style="font-size: 3rem; background: linear-gradient(45deg, #00f, #0ff, #0f0, #ff0, #f00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradientMove 3s infinite alternate ease-in-out;">Hi 👋, I'm Aadya</h1>
+
+<h3 align="center">Brewing code and creativity — CS student ☕ turned software sorcerer 🧑🏼‍💻.</h3>
+
 
 # 💫 About Me:
 🤝 I'm looking to collaborate on: AI/ML, MERN stack projects, and anything that blends tech with creativity.<br>🆘 I'm looking for help with: Model optimization, impactful storytelling with data, and deploying ML apps.<br>📖 I'm currently learning: Advanced DSA, Flask-ML integration, and building scalable full-stack applications.<br>💬 Ask me about: Full-stack development, creative tech projects, and balancing tech with the arts.<br>🎉 Fun fact: I switch between coding and choreography — creativity keeps my logic flowing!

@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Aadya
 
 # 💫 About Me:
-🤝 I'm looking to collaborate on: AI/ML, fintech, MERN stack projects, and anything that blends tech with creativity.<br>🆘 I'm looking for help with: Model optimization, impactful storytelling with data, and deploying ML apps.<br>📖 I'm currently learning: Advanced DSA, Flask-ML integration, and building scalable full-stack applications.<br>💬 Ask me about: Full-stack development, creative tech projects, and balancing tech with the arts.<br>🎉 Fun fact: I switch between coding and choreography — creativity keeps my logic flowing!
+🤝 I'm looking to collaborate on: AI/ML, MERN stack projects, and anything that blends tech with creativity.<br>🆘 I'm looking for help with: Model optimization, impactful storytelling with data, and deploying ML apps.<br>📖 I'm currently learning: Advanced DSA, Flask-ML integration, and building scalable full-stack applications.<br>💬 Ask me about: Full-stack development, creative tech projects, and balancing tech with the arts.<br>🎉 Fun fact: I switch between coding and choreography — creativity keeps my logic flowing!
 
 
 ## 🌐 Socials:

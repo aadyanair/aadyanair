@@ -7,7 +7,7 @@
 🧠 Need a hand? I'm diving deep into model tuning, data storytelling, and making ML apps production-ready.  
 📚 Currently nerding out over advanced DSA, Flask + ML magic, and full-stack scalability.  
 💬 Got questions on full-stack, creative tech ideas, or how to balance logic with a spark of art? Let’s talk!  
-✨ Fun fact: My brain runs on code and creativity — equal parts compiler and canvas.
+✨ Fun fact: I code with logic and groove with grace — when I'm not solving bugs, you'll find me dancing, strumming my guitar, or weaving tunes on the flute.
 
 
 

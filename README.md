@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 3rem; background: linear-gradient(45deg, #00f, #0ff, #0f0, #ff0, #f00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradientMove 3s infinite alternate ease-in-out;">Hi 👋, I'm Aadya</h1>
 
-<h3 align="center">Brewing code and creativity — CS student ☕ turned software sorcerer 🧑🏼‍💻.</h3>
+<h3 align="center">Brewing code and creativity — CS student ☕ turned software sorceress 🧑🏼‍💻.</h3>
 
 ## Behind the code
 🤝 Always up for teaming up on anything that fuses tech, creativity, and real-world impact — especially AI/ML and MERN stack builds.  

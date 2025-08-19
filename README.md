@@ -15,9 +15,8 @@
 ✨ Fun fact: I code with logic and groove with grace — when I'm not solving bugs, you'll find me dancing, strumming my guitar, or weaving tunes on the flute.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aadyanair/aadyanair/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/aadyanair/aadyanair/output/snake-black.svg" alt="Snake animation" />
 </div>
-
 
 
 <h2 align="center">🛠 Languages & Tools</h2>

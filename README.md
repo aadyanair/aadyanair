@@ -2,6 +2,11 @@
 
 <h3 align="center">Brewing code and creativity — CS student ☕ turned software sorceress 🧑🏼‍💻.</h3>
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/4f/4e/16/4f4e1638e028090ff030ec2ae0fc6919.gif" width="500"/>
+</div>
+
+
 ## Behind the code
 🤝 Always up for teaming up on anything that fuses tech, creativity, and real-world impact — especially AI/ML and MERN stack builds.  
 🧠 Need a hand? I'm diving deep into model tuning, data storytelling, and making ML apps production-ready.  

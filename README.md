@@ -9,7 +9,11 @@
 💬 Got questions on full-stack, creative tech ideas, or how to balance logic with a spark of art? Let’s talk!  
 ✨ Fun fact: I code with logic and groove with grace — when I'm not solving bugs, you'll find me dancing, strumming my guitar, or weaving tunes on the flute.
 
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <h2 align="center">🛠 Languages & Tools</h2>
 <div align="center">

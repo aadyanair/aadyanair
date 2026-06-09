@@ -8,11 +8,11 @@
 
 
 ## Behind the code
-🤝 Always up for teaming up on anything that fuses tech, creativity, and real-world impact — especially AI/ML and MERN stack builds.  
-🧠 Need a hand? I'm diving deep into model tuning, data storytelling, and making ML apps production-ready.  
-📚 Currently nerding out over advanced DSA, Flask + ML magic, and full-stack scalability.  
-💬 Got questions on full-stack, creative tech ideas, or how to balance logic with a spark of art? Let’s talk!  
-✨ Fun fact: I code with logic and groove with grace — when I'm not solving bugs, you'll find me dancing, strumming my guitar, or weaving tunes on the flute.
+🤝 Always open to collaborating on meaningful projects that combine technology, creativity, and impact.
+🌱 Currently exploring cybersecurity, backend engineering, and the many rabbit holes computer science keeps hiding.
+📚 Learning German alongside tech because apparently one difficult challenge at a time wasn't enough.
+💬 Feel free to reach out if you enjoy discussing tech, building products, or exchanging ideas that start with "What if..."
+✨ Outside the terminal, you'll probably find me dancing, playing my flute, strumming my guitar, or convincing myself that "one more feature" won't take all night.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/aadyanair/aadyanair/output/snake.svg?cacheBust=1" alt="Snake animation" />

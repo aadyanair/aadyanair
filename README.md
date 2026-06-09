@@ -8,12 +8,16 @@
 
 
 ## Behind the code
-🤝 Always open to collaborating on meaningful projects that combine technology, creativity, and impact.
-🌱 Currently exploring cybersecurity, backend engineering, and the many rabbit holes computer science keeps hiding.
-📚 Learning German alongside tech because apparently one difficult challenge at a time wasn't enough.
-💬 Feel free to reach out if you enjoy discussing tech, building products, or exchanging ideas that start with "What if..."
-✨ Outside the terminal, you'll probably find me dancing, playing my flute, strumming my guitar, or convincing myself that "one more feature" won't take all night.
 
+🤝 Always open to collaborating on meaningful projects that combine technology, creativity, and impact.  
+
+🌱 Currently exploring cybersecurity, backend engineering, and the many rabbit holes computer science keeps hiding.  
+
+📚 Learning German alongside tech because apparently one difficult challenge at a time wasn't enough.  
+
+💬 Feel free to reach out if you enjoy discussing tech, building products, or exchanging ideas that start with *"What if..."*  
+
+✨ Outside the terminal, you'll probably find me dancing, playing my flute, strumming my guitar, or convincing myself that *"one more feature"* won't take all night.
 <div align="center">
   <img src="https://raw.githubusercontent.com/aadyanair/aadyanair/output/snake.svg?cacheBust=1" alt="Snake animation" />
 </div>

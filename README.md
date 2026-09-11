@@ -11,7 +11,7 @@
 
 🤝 Always open to collaborating on meaningful projects that combine technology, creativity, and impact.  
 
-🌱 Currently exploring cybersecurity, backend engineering, and the many rabbit holes computer science keeps hiding.  
+🌱 Currently exploring many rabbit holes computer science keeps hiding.  
 
 📚 Learning German alongside tech because apparently one difficult challenge at a time wasn't enough.  
 
